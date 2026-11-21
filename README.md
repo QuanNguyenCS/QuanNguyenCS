@@ -20,11 +20,3 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 ![Slurm](https://img.shields.io/badge/Slurm-475569?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuanNguyenCS/QuanNguyenCS/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuanNguyenCS/QuanNguyenCS/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/QuanNguyenCS/QuanNguyenCS/output/github-snake-dark.svg" />
-</picture>
